@@ -1,6 +1,6 @@
 // Instructions as before, different file name (obviously...)
 
-// $ node src/2_statements.js
+// $ node 2_statements.js
 
 'use strict';
 
@@ -39,7 +39,7 @@ console.log('Squaring it gives us ' + squared);
 
 let i = 0;
 i = i + 5;
-console.log()
+console.log(i);
 
 // You can write an empty statement...
 
